@@ -6,7 +6,7 @@ Is a simple programm in C++ for calculating math things.
 
 ## Installation
 
-Use the git clone command to install th code.
+Use the git clone command to install the code.
 
 ```bash
 git clone https://github.com/Pawelgit1234/Mathematics.git
